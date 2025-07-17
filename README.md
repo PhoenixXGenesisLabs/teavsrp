@@ -1,2 +1,2 @@
 # teavsrp
-The Element Animation Sound Resource Pack
+The Element Animation Villager Sound Resource Pack - now on Bedrock!
