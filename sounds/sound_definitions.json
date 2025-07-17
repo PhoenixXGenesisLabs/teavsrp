@@ -1,0 +1,66 @@
+{
+    "format_version": "1.21.50",
+    "sound_definitions": {
+      "music.menu" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "music",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            {
+               "name" : "sounds/music/menu/menu1",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/menu/menu2",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/menu/menu3",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/menu/menu4",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/game/below_and_above",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/game/broken_clocks",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/game/fireflies",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/game/lilypad",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/game/os_piano",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/game/tears",
+               "stream" : true,
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/music/menu/got",
+		"stream" : true,
+		"volume" : 0.30
+            }
+         ]
+      },
